@@ -6,8 +6,7 @@ import java.util.Date;
 
 public class ForAPIKey {
 
-    public static String API_KEY = "72984fb9263967222d0d2b8ef8a12e01";
-    public static String API_LINK = "http://api.openweathermap.org/data/2.5/weather";
+
 
 
     //Make requests and create functional link to API path
